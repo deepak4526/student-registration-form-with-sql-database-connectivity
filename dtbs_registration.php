@@ -106,7 +106,7 @@ if (isset($_GET['submit'])){
 
       @media only screen and (max-width: 768px) {
       form{
-      	paddin:0px;
+      	padding:0px;
       	margin:0 15% 0 4%;
       	width:70%;
       }
